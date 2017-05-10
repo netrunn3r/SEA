@@ -1,0 +1,60 @@
+﻿<Window x:Class="FakeSilverlightInstaller.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FakeSilverlightInstaller"
+        mc:Ignorable="d"
+        Title="Installer" Height="359" Width="560" Background="#FFC6E5F7"
+        WindowStyle="None"
+        ResizeMode="NoResize" MouseDown="Window_MouseDown" Loaded="Window_Loaded">
+    <Grid>
+        <Image HorizontalAlignment="Left" Margin="1,1,0,0" Source="silverlight_logo.png" Stretch="None" VerticalAlignment="Top"/>
+        <Button Content="X" HorizontalAlignment="Left" Margin="537,10,0,0" VerticalAlignment="Top" Width="13" Height="13" FontSize="10.2" Foreground="#FF555555" Background="#FFEEEEEE" Padding="0" FontFamily="Arial" Click="Button_Click"/>
+
+        <Grid x:Name="page1">
+            <TextBlock HorizontalAlignment="Left" Margin="256,31,0,0" TextWrapping="Wrap" Text="Install Silverlight" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Tahoma" FontSize="17"/>
+            <TextBlock HorizontalAlignment="Left" Margin="256,84,0,0" TextWrapping="Wrap" Text="By clicking                     you accept the Silverlight license agreement." VerticalAlignment="Top" FontFamily="Tahoma" FontSize="10.6" Width="273"/>
+            <TextBlock HorizontalAlignment="Left" Margin="308,84,0,0" TextWrapping="Wrap" Text="Install now" VerticalAlignment="Top" FontWeight="Bold" FontFamily="Tahoma" FontSize="11"/>
+            <TextBlock HorizontalAlignment="Left" Margin="256,152,0,0" TextWrapping="Wrap" Text="Silverlight updates automatically." VerticalAlignment="Top" FontFamily="Tahoma" FontSize="10.8"/>
+
+            <TextBlock HorizontalAlignment="Left" Margin="257,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="13" FontFamily="Tahoma">
+                <Hyperlink x:Name="HyperlinkLicense" NavigateUri="https://www.microsoft.com/getsilverlight/get-started/install/license-win.aspx" RequestNavigate="Hyperlink_RequestNavigate">
+                    View the Silverlight License Agreement
+                </Hyperlink>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="257,169,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="13.1" FontFamily="Tahoma">
+                <Hyperlink x:Name="HyperlinkPrivacy" NavigateUri="https://www.microsoft.com/GetSilverlight/locale/en-us/html/privacy_2.0.30916.html" RequestNavigate="Hyperlink_RequestNavigate">
+                    View the Silverlight Privacy Statement
+                </Hyperlink>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="257,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="11.6" FontFamily="Tahoma">
+                <Hyperlink x:Name="HyperlinkService" NavigateUri="https://www.microsoft.com/en-US/servicesagreement/" RequestNavigate="Hyperlink_RequestNavigate">
+                    Microsoft Service Agreement
+                </Hyperlink>
+            </TextBlock>
+            <TextBlock HorizontalAlignment="Left" Margin="257,304,0,0" TextWrapping="Wrap" VerticalAlignment="Top" FontSize="12.1" FontFamily="Tahoma">
+                <Hyperlink x:Name="HyperlinkPrivacyPolicy" NavigateUri="https://privacy.microsoft.com/en-us/privacystatement" RequestNavigate="Hyperlink_RequestNavigate">
+                    Privacy Policy
+                </Hyperlink>
+            </TextBlock>
+
+            <Button x:Name="ButtonInstallNow" Content="Install now" HorizontalAlignment="Left" Margin="469,333,0,0" VerticalAlignment="Top" Width="73" BorderBrush="#FF0078D7" FontFamily="Tahoma" FontSize="11" Height="18" Click="ButtonInstallNow_Click"/>
+        </Grid>
+
+        <Grid x:Name="page2" Visibility="Hidden">
+            <TextBlock HorizontalAlignment="Left" Margin="256,31,0,0" TextWrapping="Wrap" Text="Silverlight is being installed on your computer." VerticalAlignment="Top" FontFamily="Tahoma" FontSize="17" FontWeight="Bold"/>
+            <TextBlock x:Name="txtInstalling" HorizontalAlignment="Left" Margin="256,255,0,0" TextWrapping="Wrap" Text="Installing..." VerticalAlignment="Top" FontFamily="Tahoma" FontSize="17" />
+        </Grid>
+        
+        <Grid x:Name="page3" Visibility="Hidden">
+            <TextBlock HorizontalAlignment="Left" Margin="256,31,0,0" TextWrapping="Wrap" Text="Installation successful" VerticalAlignment="Top" FontFamily="Tahoma" FontSize="17" FontWeight="Bold"/>
+            <TextBlock HorizontalAlignment="Left" Margin="256,115,0,0" TextWrapping="Wrap" Text="You may have to refresh (F5) the Web page for these changes to take effect." VerticalAlignment="Top" FontFamily="Tahoma" FontSize="15" Width="269" />
+
+            <Button x:Name="ButtonClose" Content="Close" HorizontalAlignment="Left" Margin="469,333,0,0" VerticalAlignment="Top" Width="73" BorderBrush="#FF0078D7" FontFamily="Tahoma" FontSize="11" Height="18" Click="ButtonClose_Click"/>
+        </Grid>
+
+        <Image HorizontalAlignment="Left" Margin="244,1,0,-1" VerticalAlignment="Top" Source="silverlight_bg.png" Stretch="None" Panel.ZIndex="-2" Visibility="Hidden"/>
+        
+    </Grid>
+</Window>

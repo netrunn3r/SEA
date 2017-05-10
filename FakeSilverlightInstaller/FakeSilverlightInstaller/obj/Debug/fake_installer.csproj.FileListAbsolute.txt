@@ -1,0 +1,14 @@
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\bin\Debug\fake_installer.exe.config
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\bin\Debug\fake_installer.exe
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\bin\Debug\fake_installer.pdb
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.csprojResolveAssemblyReference.cache
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\MainWindow.g.cs
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\App.g.cs
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer_MarkupCompile.cache
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer_MarkupCompile.lref
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\MainWindow.baml
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.g.resources
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.Properties.Resources.resources
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.csproj.GenerateResource.Cache
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.exe
+C:\Users\michal.chrobak\documents\visual studio 2017\Projects\fake_installer\fake_installer\obj\Debug\fake_installer.pdb

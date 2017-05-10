@@ -1,0 +1,14 @@
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Debug\fake_installer.exe.config
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Debug\fake_installer.exe
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Debug\fake_installer.pdb
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\FakeSilverlightInstaller.csprojResolveAssemblyReference.cache
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\MainWindow.g.cs
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\App.g.cs
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer_MarkupCompile.cache
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer_MarkupCompile.lref
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\MainWindow.baml
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer.g.resources
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer.Properties.Resources.resources
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\FakeSilverlightInstaller.csproj.GenerateResource.Cache
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer.exe
+c:\users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Debug\fake_installer.pdb

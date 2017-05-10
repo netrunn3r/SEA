@@ -1,0 +1,14 @@
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Debug\fake_adobe_reader_installer.exe.config
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Debug\fake_adobe_reader_installer.exe
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Debug\fake_adobe_reader_installer.pdb
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\FakeAdobeReaderInstaller.csprojResolveAssemblyReference.cache
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\MainWindow.g.cs
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\App.g.cs
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer_MarkupCompile.cache
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer_MarkupCompile.lref
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\MainWindow.baml
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer.g.resources
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer.Properties.Resources.resources
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\FakeAdobeReaderInstaller.csproj.GenerateResource.Cache
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer.exe
+C:\Users\michal.chrobak\Documents\Visual Studio 2017\Projects\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Debug\fake_adobe_reader_installer.pdb
