@@ -7,7 +7,7 @@
     <ProjectGuid>{45BB2049-E90D-477B-91FE-9FC95C7C4834}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>fake_installer</RootNamespace>
-    <AssemblyName>fake_installer</AssemblyName>
+    <AssemblyName>update_silverlight5</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -52,6 +52,9 @@
     <ErrorReport>prompt</ErrorReport>
     <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
     <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Silverlight.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -118,6 +121,9 @@
   </ItemGroup>
   <ItemGroup>
     <Resource Include="silverlight_bg.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Silverlight.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("fake_adobe_reader_installer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("adobe_reader_patch_399351")]
+[assembly: AssemblyDescription("Patch for vulnerability in Adobe Reader")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("fake_adobe_reader_installer")]
+[assembly: AssemblyCompany("Adobe")]
+[assembly: AssemblyProduct("adobe_reader_patch_399351")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

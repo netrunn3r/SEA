@@ -1,0 +1,14 @@
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\FakeAdobeReaderInstaller.csprojResolveAssemblyReference.cache
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\MainWindow.g.cs
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\App.g.cs
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\MainWindow.baml
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\fake_adobe_reader_installer.Properties.Resources.resources
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\FakeAdobeReaderInstaller.csproj.GenerateResource.Cache
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Release\adobe_reader_patch_399351.exe.config
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Release\adobe_reader_patch_399351.exe
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\bin\Release\adobe_reader_patch_399351.pdb
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\adobe_reader_patch_399351_MarkupCompile.cache
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\adobe_reader_patch_399351_MarkupCompile.lref
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\adobe_reader_patch_399351.g.resources
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\adobe_reader_patch_399351.exe
+c:\users\michal.chrobak\Documents\git\SEA\FakeAdobeReaderInstaller\FakeAdobeReaderInstaller\obj\Release\adobe_reader_patch_399351.pdb

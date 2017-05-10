@@ -7,11 +7,11 @@ using System.Windows;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("fake_installer")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("update_silverlight5")]
+[assembly: AssemblyDescription("Update to Silverlight 5")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("fake_installer")]
+[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyProduct("update_silverlight5")]
 [assembly: AssemblyCopyright("Copyright ©  2017")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]

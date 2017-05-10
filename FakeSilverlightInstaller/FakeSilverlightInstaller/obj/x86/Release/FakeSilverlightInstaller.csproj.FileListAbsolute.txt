@@ -1,0 +1,13 @@
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Release\fake_installer.exe.config
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Release\fake_installer.exe
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\bin\x86\Release\fake_installer.pdb
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\MainWindow.g.cs
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\App.g.cs
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer_MarkupCompile.cache
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer_MarkupCompile.lref
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\MainWindow.baml
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer.g.resources
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer.Properties.Resources.resources
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\FakeSilverlightInstaller.csproj.GenerateResource.Cache
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer.exe
+C:\Users\michal.chrobak\Documents\git\SEA\FakeSilverlightInstaller\FakeSilverlightInstaller\obj\x86\Release\fake_installer.pdb
